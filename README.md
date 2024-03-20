@@ -16,3 +16,6 @@ Estou sofrendo para conseguir os dados e o ponto de extremidade, to enfiando a c
 Copiei e colei o code do arquivo json, pois não achei ainda como fazer o download do danado, ele ta criando e atualizando em ponto real, não sei se escolhi certo kk mas ta lá..
 ...
 ... Rodando, e rodando e rodando.
+ Depois de umas tretas, fiz um download de um arquivo zompactado que veio com dois arquivos .JSON...
+ ..
+ .. To acreditando que possa ser algum deles, então upei k.
